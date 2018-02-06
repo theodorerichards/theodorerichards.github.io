@@ -1,0 +1,19 @@
+{
+  "name": "pckgd_in_brklyn",
+  "version": "1.0.0",
+  "description": "pckgd_in_brklyn website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theodorerichards/theodorerichards.github.io.git"
+  },
+  "author": "Theodore Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theodorerichards/theodorerichards.github.io/issues"
+  },
+  "homepage": "https://github.com/theodorerichards/theodorerichards.github.io#readme"
+}

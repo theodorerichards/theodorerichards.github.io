@@ -1,0 +1,25 @@
+body {
+	height: 100%;
+	margin: 0;
+    width: 100%;
+    background-color: #444444;
+    color: #ffffff;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 200px;
+    z-index: 1;
+}
+
+ul {
+    list-style: none;
+    text-align: right;
+}
+
+ul li{
+    display: inline;
+    padding-right: 30px;
+    
+  }
