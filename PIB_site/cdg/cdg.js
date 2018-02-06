@@ -53,7 +53,7 @@ function draw() {
     textAlign(CENTER, CENTER);
     textStyle(BOLD);
     textFont('Helvetica Neue');
-    text('medium flower pot\n$85\nbuy', windowWidth/2, windowHeight/2+100);
+    text('medium flower pot\n$95\nbuy', windowWidth/2, windowHeight/2+100);
     
     
   for(var i = 0; i <= width; i += 35) {
